@@ -1,0 +1,77 @@
+{
+    "custom_fonts": [],
+    "variables": {
+        "light": {
+            "--font-sans": "'Inter', sans-serif",
+            "--font-mono": "source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace",
+            "--background": "0 0% 100%",
+            "--foreground": "146 30% 15%",
+            "--card": "0 0% 100%",
+            "--card-foreground": "146 30% 15%",
+            "--popover": "0 0% 100%",
+            "--popover-foreground": "146 30% 15%",
+            
+            "//_comentario_1": "Aqui usamos o Verde Claro Pantone 375 para destacar a letra preta",
+            "--primary": "86 100% 45%",
+            "--primary-foreground": "146 30% 15%",
+            
+            "//_comentario_2": "Garante que o fundo dos balões e inputs aceite texto escuro",
+            "--secondary": "86 100% 45%",
+            "--secondary-foreground": "146 30% 15%",
+            
+            "--muted": "146 15% 96%",
+            "--muted-foreground": "146 15% 45%",
+            
+            "--accent": "86 100% 45%",
+            "--accent-foreground": "146 30% 15%",
+            
+            "--destructive": "0 84.2% 60.2%",
+            "--destructive-foreground": "0 0% 100%",
+            "--border": "146 20% 90%",
+            "--input": "146 20% 90%",
+            "--ring": "86 100% 45%",
+            "--radius": "0.75rem",
+            
+            "//_comentario_3": "A barra lateral continua com o Verde Escuro elegante da marca",
+            "--sidebar-background": "146 65% 24%",
+            "--sidebar-foreground": "0 0% 100%",
+            "--sidebar-primary": "86 100% 45%",
+            "--sidebar-primary-foreground": "146 30% 15%",
+            "--sidebar-accent": "146 50% 20%",
+            "--sidebar-accent-foreground": "0 0% 100%",
+            "--sidebar-border": "146 50% 20%",
+            "--sidebar-ring": "86 100% 45%"
+        },
+        "dark": {
+            "--font-sans": "'Inter', sans-serif",
+            "--font-mono": "source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace",
+            "--background": "0 0% 13%",
+            "--foreground": "0 0% 95%",
+            "--card": "0 0% 20%",
+            "--card-foreground": "0 0% 100%",
+            "--popover": "0 0% 20%",
+            "--popover-foreground": "0 0% 100%",
+            "--primary": "146 100% 27%",
+            "--primary-foreground": "0 0% 100%",
+            "--secondary": "0 0% 25%",
+            "--secondary-foreground": "0 0% 95%",
+            "--muted": "0 0% 25%",
+            "--muted-foreground": "0 0% 75%",
+            "--accent": "146 100% 27%",
+            "--accent-foreground": "0 0% 100%",
+            "--destructive": "0 62.8% 30.6%",
+            "--destructive-foreground": "0 0% 100%",
+            "--border": "0 0% 25%",
+            "--input": "0 0% 25%",
+            "--ring": "146 100% 27%",
+            "--sidebar-background": "0 0% 20%",
+            "--sidebar-foreground": "0 0% 95%",
+            "--sidebar-primary": "146 100% 27%",
+            "--sidebar-primary-foreground": "0 0% 100%",
+            "--sidebar-accent": "0 0% 25%",
+            "--sidebar-accent-foreground": "86 100% 45%",
+            "--sidebar-border": "0 0% 28%",
+            "--sidebar-ring": "146 100% 27%"
+        }
+    }
+}

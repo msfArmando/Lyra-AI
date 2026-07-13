@@ -1,0 +1,24 @@
+[project]
+name = "aurora-ai-god"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncpg>=0.31.0",
+    "chainlit>=2.11.1",
+    "edge-tts>=7.2.8",
+    "langchain>=1.3.11",
+    "langchain-community>=0.4.2",
+    "langchain-ollama>=1.1.0",
+    "langchain-postgres>=0.0.17",
+    "langchain-text-splitters>=1.1.2",
+    "langgraph>=1.2.7",
+    "langgraph-checkpoint-postgres>=3.1.0",
+    "pdf2image>=1.17.0",
+    "pgvector==0.2.5",
+    "pillow>=12.3.0",
+    "psycopg2-binary>=2.9.12",
+    "pytesseract>=0.3.13",
+    "tesseract>=0.1.3",
+]
